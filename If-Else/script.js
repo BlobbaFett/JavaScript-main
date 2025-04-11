@@ -28,7 +28,7 @@ else{
 
 
 let coin = prompt('Heads or Tails');
-let flip = Math.random() < 0.5 ? 'heads' : 'tails';
+let flip = ;
 if (coin === flip) {
     alert('You guessed correctly! It was ' + flip);
 } else {
